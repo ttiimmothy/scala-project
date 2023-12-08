@@ -1,6 +1,6 @@
-# 70-2
-[![ci](https://github.com/ttiimmothy/70-2/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/70-2/actions/workflows/ci.yml)
+# 70-1
+[![ci](https://github.com/ttiimmothy/70-1/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/70-1/actions/workflows/ci.yml)
 
 ## License
 
-70-2 is licensed under [GNU General Public License v3.0](LICENSE).
+70-1 is licensed under [GNU General Public License v3.0](LICENSE).
